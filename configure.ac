@@ -3,7 +3,7 @@
 
 AC_PREREQ([2.69])
 AC_INIT([UnitTest++],
-        m4_esyscmd_s([git describe --tags | cut -c2-]),
+        [2.1.0],
         [pjohnmeyer@gmail.com],
         [unittest-cpp])
 
